@@ -16,7 +16,7 @@ object OverlappingCommunityDetection {
     * @param graph           the graph for which to compute the community affiliation
     * @param maxSteps        the number of supersteps of OLPA to be performed. Because this is a static
     *                        implementation, the algorithm will run for exactly this many supersteps.
-    * @param noOfCommunities the maximum number of communities to be assigned to each vertex
+    * @param noOfCommunities 	the maximum number of communities to be assigned to each vertex
     * @return a graph with list of vertex attributes containing the labels of communities affiliation
     */
 

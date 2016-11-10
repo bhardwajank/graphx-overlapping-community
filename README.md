@@ -14,4 +14,6 @@ val overlapCommunities = OverlappingCommunityDetection.run(graph,5,4)
 
 ```
 
+##API
 
+API docs can be found at [OverlappingCommunityDetection](https://bhardwajank.github.io/graphx-overlapping-community/api/latest/#org.apache.spark.graphx.lib.OverlappingCommunityDetection$ "OverlappingCommunityDetection")
